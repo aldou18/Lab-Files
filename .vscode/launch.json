@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run neuron_test_code.py",
+      "type": "python",
+      "request": "launch",
+      "program": "/Users/alexdouieb/Library/Mobile Documents/com~apple~CloudDocs/Documents/BU RISE 2025/Lab Files/codes_mac/neuron_test_code.py",
+      "python": "/Users/alexdouieb/Library/Mobile Documents/com~apple~CloudDocs/Documents/BU RISE 2025/Lab Files/neuron-env/bin/python",
+      "console": "integratedTerminal"
+    }
+  ]
+}
